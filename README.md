@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muarif Shaikh</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **Python, Django and SQL**
+- 💬 Ask me about **Python, Django, C#, .NET, SQL, PL/SQL**
 
 - 📫 How to reach me **shaikhmuarif66@gmail.com**
 
