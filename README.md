@@ -9,9 +9,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working on **full-stack projects using Django and .NET**
+- 🎓 Fresh graduate eager to contribute to innovative projects
+- 🔭 I'm currently working on **building my portfolio with Django and .NET projects**
 - 🌱 I'm currently learning **Full Stack Web Development**
-- 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **Python, Django, C#, .NET, SQL, PL/SQL**
 - 📫 How to reach me **shaikhmuarif66@gmail.com**
 - ⚡ Fun fact: **I debug code with coffee and curiosity!**
@@ -127,4 +127,4 @@
   <img src="https://komarev.com/ghpvc/?username=muarif2k1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="center">💼 Open to new opportunities and collaborations!</p>
+<p align="center">💼 Open to internships and entry-level opportunities!</p>
